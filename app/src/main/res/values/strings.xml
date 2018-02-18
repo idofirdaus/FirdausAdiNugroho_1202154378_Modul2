@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SIDANG RERET</string>
+    <string name="time_picker" />
+    <string name="date_picker" />
+    <string name="date" />
+    <string name="time" />
+</resources>
